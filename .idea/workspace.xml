@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a6aee0a-4259-4e06-b929-baffd89f6bbd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/blog-templating-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-61/.idea/day-61.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-63/.idea/day-63.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/New folder/.idea/New folder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bitcoin_project/.idea/bitcoin_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bs4_project/.idea/bs4_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/comeBack/.idea/comeBack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/comeBack/100_day_of_code/.idea/100_day_of_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/comeBack/100_day_of_code/j_S_O_N/.idea/j_S_O_N.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/comeBack/review_projects/.idea/review_projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/comeBack/review_projects/Testing_purpose/.idea/Testing_purpose.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/comeBack/review_projects/birthday_wisher/.idea/birthday_wisher.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/comeBack/review_projects/password_manager/.idea/password_manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/comeBack/review_projects/pomodoro/.idea/pomodoro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/comeBack/review_projects/pong_game/.idea/pong_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/comeBack/review_projects/snake_game/.idea/snake_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/comeBack/review_projects/turtle_crossing/.idea/turtle_crossing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/comeBack/tkinter_projects/.idea/tkinter_projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/data_entry_automation/.idea/data_entry_automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/day-57/.idea/day-57.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/day-60/.idea/day-60.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/day-62/.idea/day-.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/day-63/.idea/day-63.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/day-64/.idea/day-64.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/default_project/.idea/default_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/default_training/.idea/default_training.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/flash_card_project/.idea/flash_card_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/flask_secrets/.idea/flask_secrets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/habit_tracker/.idea/habit_tracker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/hacking_test/.idea/hacking_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/hello_flask/.idea/hello_flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/html-forms/.idea/html-forms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/kanye/.idea/kanye.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/login_program/.idea/login_program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/my_personal_website/.idea/my_personal_website.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/passsward_generator/.idea/passsward_generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/password_/.idea/password_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/project_1/.idea/project_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/quizzler-app/.idea/quizzler-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/startbootstrap-clean-blog-gh-pages/.idea/startbootstrap-clean-blog-gh-pages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/stock-news-extrahard-start/.idea/stock-news-extrahard-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/stock_project/.idea/stock_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/stock_project/stock-news-extrahard-start/.idea/stock-news-extrahard-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/test_project/.idea/test_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/us-states-game-start/.idea/us-states-game-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/web_scraping/.idea/web_scraping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/workout_sheets/.idea/workout_sheets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../university/Algorithm AAUP University/assignment/.idea/assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/.idea/upgraded-blog.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2D0vQxbjqXNDJetEkjleqZaaVBR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="blog-templating-start" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a6aee0a-4259-4e06-b929-baffd89f6bbd" name="Changes" comment="" />
+      <created>1659848809678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659848809678</updated>
+    </task>
+    <servers />
+  </component>
+</project>
